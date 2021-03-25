@@ -91,7 +91,7 @@ body{
 .grid-item3{ 
     display: flex;
     margin-left: 40px;
-    margin-right:-40px
+    margin-right:-40px;
     padding-right: 0;
     padding-left: 10px;
     padding-top: 10px;
